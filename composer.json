@@ -1,0 +1,14 @@
+{
+    "name": "jws/alisdk",
+    "description": "this jiangwangsheng",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "authors": [
+        {
+            "name": "PPP",
+            "email": "jxf1492109871@163.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
