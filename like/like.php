@@ -8,6 +8,7 @@ interface A {
 abstract class A2 implements A {
     public function send() {
         echo "sendA2";
+        
     }
 }
 
