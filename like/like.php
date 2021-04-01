@@ -1,5 +1,5 @@
 <?php
-namespace like;
+namespace jws\alisdk\like;
 interface A {
     public function send();
     // public function add();
