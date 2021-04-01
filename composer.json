@@ -4,6 +4,7 @@
     "require": {
         "php": ">=5.4.0"
     },
+    "version" : "1.2.14",
     "autoload": {
         "psr-4": {
             "jws\\": "jws/"
